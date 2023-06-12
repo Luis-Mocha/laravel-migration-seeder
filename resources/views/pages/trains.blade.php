@@ -10,4 +10,11 @@ Esercizio migration/seeder | Treni
         <h1 class="text-center py-2">Pagina treni</h1>
     </div>
 
+    <div class="container">
+@php
+    dd($trains);
+@endphp
+
+    </div>
+
 @endsection
