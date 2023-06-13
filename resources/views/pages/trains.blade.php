@@ -30,7 +30,7 @@ Esercizio migration/seeder | Treni
             <div class="text-center w-25 border-start px-1">
                 <div>Stazione di arrivo: <span class="fw-semibold">{{$elem['stazione_partenza']}}</span> </div>
 
-                <div >Orario arrivo: <span class="fw-semibold">{{$elem['orario_partenza']}}</span> </div>
+                <div >Orario arrivo: <span class="fw-semibold">{{$elem['orario_arrivo']}}</span> </div>
             </div>
 
         </div>
